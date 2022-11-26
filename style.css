@@ -18,7 +18,7 @@
 body {
     background: linear-gradient(to bottom, var(--purble), var(--blue-light));
     height: 100vh;
-    font-family: 'Fasthand', cursive, sans-serif;
+    font-family:sans-serif, 'Fasthand', cursive, sans-serif;
    
 }
 
