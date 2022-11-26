@@ -13,7 +13,7 @@ let LIST;
 //Date
 
 const FECHA = new Date()
-fecha.innerHTML=FECHA.toLocaleString('es-Mx',{ weekday:'long',month:'short',day:'numeric'})
+fecha.innerHTML=FECHA.toLocaleString('de-DE',{ weekday:'long',month:'short',day:'numeric'})
 
 
 
