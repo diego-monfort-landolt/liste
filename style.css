@@ -49,6 +49,7 @@ body {
     padding: 20px;
     border-radius: 20px 20px 20px 20px;
     box-shadow: 15px 15px 10px 8px;
+    overflow-x:hidden;
 }
 
 /*content hinzufügen*/
